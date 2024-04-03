@@ -21,7 +21,7 @@ O sistema fará um scan de credencial de participante para permitir a entrada do
 
 ### Regras de negócio
 
-- [ ] O participante só pode se inscrever em um evento uma única vez;
+- [ x ] O participante só pode se inscrever em um evento uma única vez;
 - [ ] O participante só pode se inscrever em eventos com vagas disponíveis;
 - [ ] O participante só pode realizar check-in uma única vez;
 
