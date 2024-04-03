@@ -16,3 +16,7 @@ Content-Type: application/json
   "name": "João Victor",
   "email": "joao@email.com"
 }
+
+###
+
+GET http://localhost:3333/events/b6fac78a-377d-41e2-a6e6-e3bfd00e771b
