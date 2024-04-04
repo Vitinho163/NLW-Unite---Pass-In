@@ -9,7 +9,7 @@ Content-Type: application/json
 
 ###
 
-POST http://localhost:3333/events/b6fac78a-377d-41e2-a6e6-e3bfd00e771b/attendees
+POST http://localhost:3333/events/a13abf3d-537a-4e8d-83da-e955013f7126/attendees
 Content-Type: application/json
 
 {
@@ -19,16 +19,16 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/events/b6fac78a-377d-41e2-a6e6-e3bfd00e771b
+GET http://localhost:3333/events/a13abf3d-537a-4e8d-83da-e955013f7126
 
 ###
 
-GET http://localhost:3333/attendees/7/badge
+GET http://localhost:3333/attendees/1/badge
 
 ###
 
-GET http://localhost:3333/attendees/8/check-in
+GET http://localhost:3333/attendees/1/check-in
 
 ###
 
-GET http://localhost:3333/events/b6fac78a-377d-41e2-a6e6-e3bfd00e771b/attendees?query=
+GET http://localhost:3333/events/a13abf3d-537a-4e8d-83da-e955013f7126/attendees?query=
